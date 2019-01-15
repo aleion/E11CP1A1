@@ -4,4 +4,7 @@ class PagesController < ApplicationController
 
   def two
   end
+
+  def tree
+  end
 end
